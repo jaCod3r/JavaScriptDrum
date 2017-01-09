@@ -1,7 +1,7 @@
 # JavaScriptDrum
 Live Preview
 
-Things Learned;
-Key Events
-Playing Audio
-Listening for transitionend event 
+Things Learned: </br>
+Key Events</br>
+Playing Audio</br>
+Listening for transitionend event</br>
